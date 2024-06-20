@@ -1,0 +1,23 @@
+aside {
+    width: 30%;
+    float: left;
+}
+
+aside #shopname {
+    padding: 20px;
+    margin-top: 15px;
+}
+
+main {
+    width: 70%;
+    float: right;
+    padding: 25px;
+    height: 100px;
+    display: inline;
+    justify-content: space-between;
+}
+
+div #myCarousel {
+    height: 900px;
+    display: inline-block;
+}
